@@ -83,7 +83,7 @@ void	Pacman::setOffset()
 		m_offset[1] = m_size / 2;
 	}
 }
-#include <QtDebug>
+
 void	Pacman::collideCoin(Coin *c)
 {
 	c->setVisible(false);
@@ -91,7 +91,6 @@ void	Pacman::collideCoin(Coin *c)
 	{
 		m_player->setMedia(*m_soundSmall);
 		m_player->play();
-		qDebug() << m_player->volume();
 	}
 	*m_score += 1;
 }
