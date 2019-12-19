@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>floor.png</file>
+        <file>ground.png</file>
+        <file>wall.png</file>
+        <file>water.png</file>
+    </qresource>
+    <qresource prefix="/Sound">
+        <file>music.ogg</file>
+        <file>smallcoin.ogg</file>
+    </qresource>
+</RCC>
