@@ -3,7 +3,7 @@ Custom Qt-based Pacman Game.
 
 Everything is written in C++ using QGraphicsview/scene/item functionalities
 
-![Pacmanss1](https://user-images.githubusercontent.com/45261035/71194591-8a57d800-228c-11ea-9a01-e3e7086c337e.png)
+![Pac](https://user-images.githubusercontent.com/45261035/71520938-ee971f00-28be-11ea-9532-188336f25673.gif)
 
 
 ### Game Logic
